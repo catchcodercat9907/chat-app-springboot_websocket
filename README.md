@@ -1,1 +1,1 @@
-# chat-app-springboot_websocket
+# groupchat-app-springboot_websocket
