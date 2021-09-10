@@ -17,6 +17,9 @@ dependencies {
     // https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-reactor-netty
     implementation 'org.springframework.boot:spring-boot-starter-reactor-netty'
     testImplementation 'org.springframework.boot:spring-boot-starter-test'
+    // https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-amqp
+    implementation 'org.springframework.boot:spring-boot-starter-amqp:2.1.5.RELEASE'
+
 }
 
 test {
